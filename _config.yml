@@ -1,0 +1,8 @@
+title: Secure Software Design and Analysis
+description: Tyler Apostolico, Will Rembish, Rob Hanna
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions

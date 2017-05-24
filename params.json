@@ -1,6 +1,0 @@
-{
-  "name": "Secure Software Design and Analysis",
-  "tagline": "Tyler Apostolico, Will Rembish, Rob Hanna",
-  "body": "## **Minesweeper**\r\n- Based on the classic game: Minesweeper\r\n- Organized as a 2D vector of cells, which update according to the game's state. \r\n- Command line based from user input.\r\n\r\n## **Polynomial Adder and Multiplier**\r\n- Adds and multiplies two given polynomials from separate input files.\r\n- Outputs the new polynomials in an output file.\r\n- Accepts polynomials of any degree.\r\n\r\n## **Markovian Tweet Generator**\r\n- Scans an input file and stores keys and links in a map of strings.\r\n- Uses two-word keys to continually find a third word. \r\n\r\n## **Secure Email Database with Encrypted Text**\r\n- Command line based prompting of user email information.\r\n- Successfully registers and accesses encrypted account information.\r\n- All usernames, passwords, and messages are safe from hackers.\r\n- Application of Sqlite.\r\n\r\nAll Projects follow various CERT rules, which are current standards in modern cybersecurity, maintained by Carnegie Mellon University. Code is accessible via the github link above. \r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
