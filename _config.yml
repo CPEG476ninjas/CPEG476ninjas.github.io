@@ -3,6 +3,7 @@ description: Tyler Apostolico, Will Rembish, Rob Hanna
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-midnight
+comments: true
 
 gems:
   - jekyll-mentions
